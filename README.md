@@ -1,2 +1,1 @@
-# KaggleStruggle
-### Kaggle.. 도전해보기
+# KaggleStruggle Kaggle.. 도전하는 공간
